@@ -3092,13 +3092,13 @@ textarea.form-control-lg {
 
 .btn-danger {
   color: #fff;
-  background-color: #dc3545;
-  border-color: #dc3545;
+  background-color: #f94605;
+  border-color: #f94605;
 }
 .btn-danger:hover {
   color: #fff;
-  background-color: #bb2d3b;
-  border-color: #b02a37;
+  background-color: #f94605;
+  border-color: #f94605;
 }
 .btn-check:focus + .btn-danger, .btn-danger:focus {
   color: #fff;
@@ -3306,13 +3306,13 @@ textarea.form-control-lg {
 }
 
 .btn-outline-danger {
-  color: #dc3545;
-  border-color: #dc3545;
+  color: #f94605;
+  border-color: #f94605;
 }
 .btn-outline-danger:hover {
   color: #fff;
-  background-color: #dc3545;
-  border-color: #dc3545;
+  background-color:#f94605;
+  border-color:#f94605;
 }
 .btn-check:focus + .btn-outline-danger, .btn-outline-danger:focus {
   box-shadow: 0 0 0 0.25rem rgba(220, 53, 69, 0.5);
@@ -7355,7 +7355,7 @@ textarea.form-control-lg {
 }
 
 .text-danger {
-  color: #dc3545 !important;
+  color: #f94605 !important;
 }
 
 .text-light {
